@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    fc2 (0.1.0)
     geo_stalker (0.1.2)
       plist (~> 3.1)
     json (1.8.3)
@@ -12,6 +13,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  fc2
   geo_stalker
   open-weather
 
